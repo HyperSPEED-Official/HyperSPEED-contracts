@@ -1,7 +1,3 @@
-Let’s craft a README for the `HyperSPEED-contracts` repo that’s clear, concise, and geared toward developers who’ll be working with or auditing the smart contracts for the HyperSPEED platform on Hyperliquid EVM. It should explain the repo’s purpose, provide setup instructions, outline the contract structure, and set expectations for contributions—all while keeping the high-energy vibe of the project. Here’s the README:
-
----
-
 # HyperSPEED-contracts 🚗💨
 
 Welcome to the engine room of **HyperSPEED**, the fastest token launchpad on Hyperliquid EVM. This repo holds the smart contracts that power token creation, pre-sales, and SPEED-seeded liquidity pools. Built for speed and thrill, HyperSPEED is here to turbocharge the HyperEVM ecosystem. Ready to race? Let’s dive in!
